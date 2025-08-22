@@ -1,0 +1,17 @@
+# Eclipse / Java
+
+# compiled files
+bin/
+*.class
+
+# Eclipse temp
+*.tmp
+*.bak
+*.swp
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# logs
+*.log
