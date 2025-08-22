@@ -5,18 +5,31 @@ The UI is built with **Swing**, while networking uses **TCP sockets** to synchro
 
 ---
 
-## Project Structure
+## Features
+- **Multiplayer over Network**: Server-client model using TCP sockets.  
+- **Interactive GUI**: Built with Java Swing, featuring rounded buttons and custom icons.  
+- **Sound Effects**: Background music and effects integrated using `.wav` files.  
+- **Robust Design**: Handles invalid moves, turn synchronization, and disconnection gracefully.  
+- **Cross-Platform**: Runs on any machine with Java 8+ installed.
 
+---
+
+## Project Structure
 ```
 networkedTicTacToe/
-├── res/                    # Assets (images, audio, etc.)
-├── src/io/github/rAnurag/
-│   ├── ClientHandler.java  # Handles communication with each client
-│   ├── Server.java         # Server logic for managing connections
-│   └── TicTacToe.java      # Main game logic / client UI
+│── src/io/github/rAnurag/
+│   ├── Server.java            # Launches the game server
+│   ├── ClientHandler.java     # Manages communication between server & clients
+│   └── TicTacToe.java         # GUI and client-side logic
+│
+│── res/                       # Resources (images, audio)
+│   ├── replayIcon.png
+│   ├── backgroundMusic.wav      
+│   └── backgroundMusic2.wav
+│
+├── .gitignore
 ├── .classpath
 ├── .project
-└── .gitignore
 ```
 
 ---
@@ -52,6 +65,16 @@ networkedTicTacToe/
 
 5. Run another client instance to simulate Player 2.  
    Both clients will connect to the server and be able to play Tic Tac Toe.
+
+---
+
+
+## Future Enhancements
+- Adding **AI opponent** with Minimax algorithm.  
+- Adding **chat functionality** during gameplay.  
+- Adding **custom themes** and board skins.  
+- Implementing **leaderboard and achievements**.  
+- Extending to **mobile platforms (Android/iOS)**.  
 
 ---
 
