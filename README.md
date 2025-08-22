@@ -68,7 +68,7 @@ networkedTicTacToe/
 
 ---
 
-### How to Play with Friends
+## How to Play with Friends
 
 1. **Start the Server (Host Player – You):**  
    - On **your computer**, run **`Server.java`** → this creates the game server.  
