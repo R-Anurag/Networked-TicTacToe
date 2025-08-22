@@ -68,12 +68,6 @@ networkedTicTacToe/
 
 ---
 
-## =Connection Setup
-Two players connect via username, IP, and port.
-<img width="811" height="550" alt="connection" src="https://github.com/user-attachments/assets/ec8aaceb-54ae-44ff-a27b-742fbde272f4" />
-
----
-
 ### How to Play with Friends
 
 1. **Start the Server (Host Player – You):**  
@@ -95,18 +89,21 @@ Two players connect via username, IP, and port.
    - The server running on your machine connects both players.  
    - Every move you or your friend makes is updated live on both boards.  
 
----
-
 💡 **Extra Tips:**  
 - If **both players are on the same computer**:  
   - Run the server once (`Server.java`)  
-  - Start two clients (`TicTacToe.java`)  
+  - Run two clients (`TicTacToe.java`)  
   - Both clients should use: `IP = localhost` and the same port.  
 - Make sure both computers are on the **same local network (LAN/Wi-Fi)**.  
 - If firewalls block the connection, allow Java through the firewall.  
 
+---
 
+## Example Connection Setup
+Two players connect via username, IP, and port.
+<img width="811" height="550" alt="connection" src="https://github.com/user-attachments/assets/ec8aaceb-54ae-44ff-a27b-742fbde272f4" />
 
+---
 
 ## Future Enhancements
 - Adding **AI opponent** with Minimax algorithm.  
