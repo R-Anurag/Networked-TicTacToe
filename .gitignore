@@ -1,17 +1,17 @@
-# Eclipse / Java
-
-# compiled files
+# Compiled class files
 bin/
+out/
 *.class
 
-# Eclipse temp
-*.tmp
-*.bak
-*.swp
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA
+.idea/
+*.iml
 
 # OS junk
 .DS_Store
 Thumbs.db
-
-# logs
-*.log
