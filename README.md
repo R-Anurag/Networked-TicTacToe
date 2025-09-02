@@ -105,6 +105,16 @@ Two players connect via username, IP, and port.
 
 ---
 
+## UI Screenshots
+| Case | Player-1 | Player-2 |
+| :---: | :---: | :---: |
+| Moves Left | <img width="324" height="346" alt="image" src="https://github.com/user-attachments/assets/fec1b2e1-94d9-4373-9cf6-e85dbf97cbdd" /> | <img width="334" height="340" alt="image" src="https://github.com/user-attachments/assets/c0788ab7-f463-4900-a5af-03d342b1edbd" /> |
+| Player-1 Wins | <img width="328" height="347" alt="image" src="https://github.com/user-attachments/assets/c70ec729-f23c-4c1d-9fba-a5706011b045" /> | <img width="341" height="352" alt="image" src="https://github.com/user-attachments/assets/b4ed8c66-6066-4f90-a42b-ac02a4b02cad" /> |
+| Player-1 Loses | <img width="331" height="347" alt="image" src="https://github.com/user-attachments/assets/b903c219-5e8d-404f-a3ad-3962b746fecc" /> | <img width="317" height="337" alt="image" src="https://github.com/user-attachments/assets/46fd17bc-751b-4dd1-8c1b-92f9cd926e0d" /> |
+| Tie | <img width="358" height="375" alt="image" src="https://github.com/user-attachments/assets/e00267ef-c695-4f78-8554-8725c3c0d8d2" /> | <img width="352" height="370" alt="image" src="https://github.com/user-attachments/assets/5f15fe96-2928-4ddb-b2f6-eef8a7705bff" /> |
+
+---
+
 ## Future Enhancements
 - Adding **AI opponent** with Minimax algorithm.  
 - Adding **chat functionality** during gameplay.  
