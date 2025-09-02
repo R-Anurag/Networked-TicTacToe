@@ -105,8 +105,8 @@ Two players connect via username, IP, and port.
 
 ---
 
-## UI Screenshots
-| Case | Player-1 | Player-2 |
+## Gameplay UI Screenshots
+| Case | Player-1 POV | Player-2 POV |
 | :---: | :---: | :---: |
 | Moves Left | <img width="324" height="346" alt="image" src="https://github.com/user-attachments/assets/fec1b2e1-94d9-4373-9cf6-e85dbf97cbdd" /> | <img width="334" height="340" alt="image" src="https://github.com/user-attachments/assets/c0788ab7-f463-4900-a5af-03d342b1edbd" /> |
 | Player-1 Wins | <img width="328" height="347" alt="image" src="https://github.com/user-attachments/assets/c70ec729-f23c-4c1d-9fba-a5706011b045" /> | <img width="341" height="352" alt="image" src="https://github.com/user-attachments/assets/b4ed8c66-6066-4f90-a42b-ac02a4b02cad" /> |
